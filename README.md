@@ -15,9 +15,10 @@ A Flutter developer with over one year of experience building cross-platform mob
 - Familiarity with popular libraries and packages such as floor, build runner, freezed, provider, http, dio, and get it
 
 ## Other Skills 👨‍💻
-
+`
 - Git proficiency
 - Strong understanding of mobile development best practices that includes concepts like clean architecture, TDD, DDD, and OOP
 - Familiarity with google analytics, crashltics, push notifications
 - Extensive experience working in an Agile development environment and communication apps like trello, souce tree and insomnia
--  
+- Adaptable, and flexible who embraces teamwork, but also has no difficulty working independently.
+- - Always looking for the latest trends of mobile development to learn and share them with teammates.
