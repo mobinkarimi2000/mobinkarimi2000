@@ -1,16 +1,21 @@
-### Hi there 👋
+## Summary 🚀
 
-<!--
-**mobinkarimi2000/mobinkarimi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Flutter developer with over one year of experience building cross-platform mobile applications. Good understanding of mobile development best practices and familiarity with popular libraries and packages. Completed more than five projects and worked with over 50 packages. Enthusiastic about staying up-to-date with the latest industry changes and collaborating with other talented professionals to work with cutting-edge technology.
 
-Here are some ideas to get you started:
+## Flutter Skills 🦋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dart and Flutter proficiency
+- Git, Firebase, and BLoC as state management solution proficiency
+- Familiarity with popular libraries and packages such as riverpod, hooks, provider, http, dio, and get it
+- Proficient in Flutter Test, including unit, widget, and integration testing, as well as Mockito and BlocTest
+
+
+## Other Skills 👨‍💻
+
+- Git proficiency
+- Strong understanding of mobile development best practices that includes concepts like clean architecture, repository pattern, and OOP
+- Familiarity with Python to create creative tools :)
+
+## Projects 💼
+
+1. [Pmodore](https://github.com/pmodore/pmodore-applicatinon) - an application that helps users implement the Pomodoro Technique.
