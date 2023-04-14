@@ -24,4 +24,4 @@ A Flutter developer with over one year of experience building cross-platform mob
 
 ## Contact 📞
 
-You can reach me at **mobin.kaimi.4895732@gmail.com** or connect with me on [LinkedIn]([https://www.linkedin.com/in/mahmoud-eslami/](https://www.linkedin.com/in/mobin-karimi-9248ba24b/)) or [Telegram](https://t.me/Mos_Hated). Thank you for visiting my profile!
+You can reach me at **mobin.kaimi.4895732@gmail.com** or connect with me on [LinkedIn]((https://www.linkedin.com/in/mobin-karimi-9248ba24b/)or [Telegram](https://t.me/Mos_Hated). Thank you for visiting my profile!
