@@ -6,7 +6,7 @@
 
 ## Summary 🚀
 
-A Flutter developer with over one year of experience building cross-platform mobile applications. had experience in mobile programming in various industries, such as: social media/ forcasting/ online grocery stores. Good understanding of mobile development best practices and familiarity with popular libraries and packages. Enthusiastic about staying up-to-date with the latest industry changes and collaborating with other talented professionals to work with cutting-edge technology.
+A Flutter developer with over one year of experience building cross-platform mobile applications. had experience in mobile programming in various industries, such as social media/forecasting/ online grocery stores. Good understanding of mobile development best practices and familiarity with popular libraries and packages. Enthusiastic about staying up-to-date with the latest industry changes and collaborating with other talented professionals to work with cutting-edge technology.
 
 ## Flutter Skills 🦋
 
